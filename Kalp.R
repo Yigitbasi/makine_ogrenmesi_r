@@ -1,4 +1,4 @@
-####################AÇIKLAMA SATIRLARI EKLE VE GEREKSİZLERİ SİL. SAKIN UNUTMA. DOSYANIN ADINI DA FORMATA UYGUN DEĞİŞ
+
 
 #veri okutuldu.
 #veri genelgecer bir sekilde analiz edildi.eksik veri analizi ve veri hakkında genel bilgiler edinildi.
